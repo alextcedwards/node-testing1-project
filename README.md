@@ -16,7 +16,7 @@ There are two possible ways to submit your project. Your instructor should have 
 - [ ] Push your first commit: `git commit --allow-empty -m "first commit" && git push`.
 - [ ] Check to see that Codegrade has accepted your git submission.
 
-#### Option B - Pull Request
+#### Option B - Pull Requesta
 
 - [ ] Fork and clone the repository.
 - [ ] Implement your project in a `firstname-lastname` branch.
